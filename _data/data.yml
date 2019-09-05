@@ -1,0 +1,143 @@
+#
+# Be aware that even a small syntax error here can lead to failures in output.
+#
+
+sidebar:
+    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    education: True # set to False if you want education in main section instead of in sidebar
+
+    # Profile information
+    name: Tommi Niemi
+    tagline: Full Stack Developer
+    avatar: tommi_cv_small.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+
+    # Sidebar links
+    email: tommi@niemi.lol
+    phone: +358 40 442 32 67
+    website: niemi.lol #do not add http://
+    linkedin: tommi-niemi
+    github: hitchhooker
+    skype: tomek.niemi
+    twitter: '@hitchhooker'
+
+    languages:
+      - idiom: English
+        level: Native
+
+      - idiom: Finnish
+        level: Native
+
+      - idiom: Swedish
+        level: Professional
+
+    interests:
+      - item: Sailing
+        link:
+
+      - item: Hitchhiking
+        link:
+
+      - item: Free software
+        link:
+        
+      - item: Infosec
+        link:
+        
+      - item: AI research
+        link:
+
+      - item: Bitcoin
+        link:
+                        
+career-profile:
+    title: Career Profile
+    summary: | 
+        I tend to travel a lot and office environments give me the feeling that I am wasting my life, so I am currently looking position that allows me to work remotely.
+        I am massive computer geek always looking to improve safety, quality and efficiency.
+      
+
+education:
+    - degree: MSc in Computer Science
+      university: University of Turku
+      time: 2012 - 2017
+      details:
+
+    - degree: Abitur
+      university: Kupittaa ICT High School
+      time: 2007 - 2010
+      details:
+
+experiences:
+    - role: System specialist / Service Desk Expert
+      time: 2017 - 2018
+      company: Fujitsu TS, Lisbon
+      details: |
+        Analyzing PoS related tickets, advicing on-site technicians to troubleshoot and fix devices effectively as possible minimizing amount of hardware replacements.
+        
+
+    - role: Technical support agent
+      time: Jan 2017 - Aug 2017
+      company: arvato Bertelsmann, Cluj-Napoca
+      details: |
+        Providing provide consultancy and technical support for market-leading PC operating system and office suite of applications and services. Troubleshooted and solved technical issues through remote desktop, assisted with first setups and gave premium coaching advanced tricks of Windows OS and Office suite.
+
+    - role: Technical support agent
+      time: Jan 2017 - Aug 2017
+      company: arvato Bertelsmann, Lisbon
+      details: |
+        Providing provide consultancy and technical support for market-leading PC operating system and office suite of applications and services. Troubleshooted and solved technical issues through remote desktop, assisted with first setups and gave premium coaching advanced tricks of Windows OS and Office suite.
+
+    - role: Technical support agent
+      time: Jan 2017 - Aug 2017
+      company: arvato Bertelsmann, Cluj-Napoca
+      details: |
+        Providing provide consultancy and technical support for market-leading PC operating system and office suite of applications and services. Troubleshooted and solved technical issues through remote desktop, assisted with first setups and gave premium coaching advanced tricks of Windows OS and Office suite.
+
+    - role: Technical support agent
+      time: Jan 2017 - Aug 2017
+      company: arvato Bertelsmann, Cluj-Napoca
+      details: |
+        Providing provide consultancy and technical support for market-leading PC operating system and office suite of applications and services. Troubleshooted and solved technical issues through remote desktop, assisted with first setups and gave premium coaching advanced tricks of Windows OS and Office suite.
+
+projects:
+    title: Projects
+    intro: >
+      I have taken part as a contributor in multiple open source projects close to my heart.
+
+    assignments:
+      - title: Trustroots
+        link: "https://www.trustroots.org/"
+        tagline: "A hospitality network for travellers to meet and host each other."
+
+      - title: Hitchwiki
+        link: "https://hitchwiki.org"
+        tagline: "A collaborative project to build a free guide for hitchhikers."
+
+      - title: OpenPlotter
+        link: "http://www.sailoog.com/openplotter"
+        tagline: "The open-source sailing platform for ARM computers."
+
+skills:
+    title: Skills &amp; Proficiency
+
+    toolset:
+      - name: HTML5 & CSS
+        level: 98%
+
+      - name: Javascript & jQuery
+        level: 98%
+
+      - name: React
+        level: 98%
+
+      - name: Python
+        level: 90%
+
+      - name: Java
+        level: 85%
+
+      - name: Rust
+        level: 60%
+
+footer: >
+    Download CV <a href="assets/tommi_niemi_cv.pdf" alt="tommi_niemi_cv">here.</a  

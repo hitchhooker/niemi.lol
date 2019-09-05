@@ -3,7 +3,7 @@
 #
 
 sidebar:
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
@@ -52,61 +52,65 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: | 
-        I tend to travel a lot and office environments give me the feeling that I am wasting my life, so I am currently looking position that allows me to work remotely.
-        I am massive computer geek always looking to improve safety, quality and efficiency.
+        I tend to travel a lot and do not feel too fitting in office environments, so I am currently looking position in IT field that allows me to work remotely.
+        I am massive computer geek always looking to improve safety, quality and efficiency. 
       
 
 education:
     - degree: MSc in Computer Science
       university: University of Turku
       time: 2012 - 2017
-      details:
 
     - degree: Abitur
       university: Kupittaa ICT High School
       time: 2007 - 2010
-      details:
 
 experiences:
     - role: System specialist / Service Desk Expert
       time: 2017 - 2018
-      company: Fujitsu TS, Lisbon
+      company: <a href="https://www.fujitsu.com/global/">Fujitsu TS, Lisbon <img alt="Portugal" src="assets/images/flags/pt.png" /></a>
       details: |
-        Analyzing PoS related tickets, advicing on-site technicians to troubleshoot and fix devices effectively as possible minimizing amount of hardware replacements.
+        Analyzed Point of Sale system related tickets and adviced on-site technicians to fix devices efficiently minimizing amount of hardware replacements.
         
 
-    - role: Technical support agent
+    - role: Technical Support Agent
       time: Jan 2017 - Aug 2017
+      company: <a href="https://www.arvato.com/en.html">arvato Bertelsmann, Cluj-Napoca <img alt="Romania" src="assets/images/flags/ro.png" /></a>
+      details: |
+        Troubleshooted and solved issues over remote desktop connection and assisted with first time setups of Windows 10 OS and Office 365.
+ 
+    - role: Technical Support Agent
+      time: Aug 2016 - Dec 2016
+      company: <a href="https://adecco.pt/">Adecco, Lisbon <img alt="Portugal" src="assets/images/flags/pt.png" /></a
+      details: |
+        Provided technical and after-sale support for Xbox gaming platform.
+
+    - role: Service Desk Consultant
+      time: Jan 2017 - Aug 2017
+      company: <a href="https://cgi.com/">CGI, Lisbon <img alt="Portugal" src="assets/images/flags/pt.png" /></a>
+      details: |
+        Incident, change and request management as part of ITSM team to Finnish companies and government.
+    
+    - role: Logistics Manager
+      time: Nov 2010 - May 2015
+      company: Ekoweb Ltd, Turku
+      details: |    
+        Ekoweb Ltd. offers wide range of high quality products for industry and public health care in the domestic and global market.
+        I worked part-time aside of studies in different tasks; logistics, distribution and quality control of diagnostic devices.
+  
+    - role: English teacher
+      time: June 2014 - Oct 2014
       company: arvato Bertelsmann, Cluj-Napoca
       details: |
-        Providing provide consultancy and technical support for market-leading PC operating system and office suite of applications and services. Troubleshooted and solved technical issues through remote desktop, assisted with first setups and gave premium coaching advanced tricks of Windows OS and Office suite.
-
-    - role: Technical support agent
-      time: Jan 2017 - Aug 2017
-      company: arvato Bertelsmann, Lisbon
-      details: |
-        Providing provide consultancy and technical support for market-leading PC operating system and office suite of applications and services. Troubleshooted and solved technical issues through remote desktop, assisted with first setups and gave premium coaching advanced tricks of Windows OS and Office suite.
-
-    - role: Technical support agent
-      time: Jan 2017 - Aug 2017
-      company: arvato Bertelsmann, Cluj-Napoca
-      details: |
-        Providing provide consultancy and technical support for market-leading PC operating system and office suite of applications and services. Troubleshooted and solved technical issues through remote desktop, assisted with first setups and gave premium coaching advanced tricks of Windows OS and Office suite.
-
-    - role: Technical support agent
-      time: Jan 2017 - Aug 2017
-      company: arvato Bertelsmann, Cluj-Napoca
-      details: |
-        Providing provide consultancy and technical support for market-leading PC operating system and office suite of applications and services. Troubleshooted and solved technical issues through remote desktop, assisted with first setups and gave premium coaching advanced tricks of Windows OS and Office suite.
+        ss
 
 projects:
     title: Projects
-    intro: 
 
     assignments:
       - title: Trustroots
         link: "https://www.trustroots.org/"
-        tagline: "A hospitality network for travellers to meet and host each other."
+        tagline: "An open-source hospitality network for travellers to meet and host each other."
 
       - title: Hitchwiki
         link: "https://hitchwiki.org"
@@ -124,19 +128,19 @@ skills:
         level: 98%
 
       - name: Javascript & jQuery
-        level: 98%
+        level: 92%
 
       - name: React
-        level: 98%
+        level: 88%
 
       - name: Python
-        level: 90%
+        level: 80%
 
       - name: Java
-        level: 85%
+        level: 75%
 
       - name: Rust
         level: 60%
 
 footer: >
-    Download CV <a href="assets/tommi_niemi_cv.pdf" alt="tommi_niemi_cv">here.</a  
+   Powered by Jekyll | Download CV <a href="assets/tommi_niemi_cv.pdf" alt="tommi_niemi_cv">here.</a  

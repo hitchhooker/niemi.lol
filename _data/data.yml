@@ -101,8 +101,7 @@ experiences:
 
 projects:
     title: Projects
-    intro: >
-      I have taken part as a contributor in multiple open source projects close to my heart.
+    intro: 
 
     assignments:
       - title: Trustroots

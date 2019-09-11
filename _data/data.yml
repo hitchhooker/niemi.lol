@@ -16,7 +16,7 @@ sidebar:
     phone: +358 40 442 32 67
     skype: tomek.niemi
     website: niemi.lol #do not add http://
-    linkedin: tommi-niemi
+    linkedin: tomminiemi
     github: hitchhooker
     twitter: 'hitchhooker'
 
@@ -141,5 +141,5 @@ skills:
       - name: Rust
         level: 60%
 
-footer: >
+        footer: >
    Powered by Jekyll | Download CV <a href="assets/tommi_niemi_cv.pdf" target="_blank" alt="tommi_niemi_cv">here.</a  

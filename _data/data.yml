@@ -34,7 +34,7 @@ sidebar:
       - item: Sailing
         link:
 
-      - item: Hitchhiking
+      - item: Traveling
         link:
 
       - item: Free software
@@ -45,10 +45,7 @@ sidebar:
         
       - item: AI research
         link:
-
-      - item: Bitcoin
-        link:
-                        
+        
 career-profile:
     title: Career Profile
     summary: | 
@@ -67,7 +64,7 @@ education:
 
 experiences:
     - role: System specialist / Service Desk Expert
-      time: Sep 2017 - May 2018
+      time: Sep 2017 - Nov 2019
       company: <a href="https://www.fujitsu.com/global/">Fujitsu TS</a>, Lisbon <img alt="Portugal" src="assets/images/flags/pt.png" />
       details: |
         Analyzed Point of Sale system related tickets and adviced on-site technicians to fix devices efficiently minimizing amount of hardware replacements.

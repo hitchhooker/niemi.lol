@@ -42,7 +42,7 @@ sidebar:
       - item: Infosec
         link:
         
-      - item: AI research
+      - item: Machine learning
         link:
         
 career-profile:
@@ -63,6 +63,12 @@ education:
       time: 2007 - 2010
 
 experiences:
+    - role: Sales Specialist
+      time: Feb 2019 - Sep 2019
+      company: <a href="https://www.fujitsu.com/global/">Site123</a>, Lisbon <img alt="EU" src="assets/images/flags/eu.png" />
+      details: |
+        I worked remotely as a sales specialist for free website builder. Sales were generated through Intercom chat and emails to customers, who had visited the upgrade page. 
+
     - role: System specialist / Service Desk Expert
       time: Sep 2017 - May 2018
       company: <a href="https://www.fujitsu.com/global/">Fujitsu TS</a>, Lisbon <img alt="Portugal" src="assets/images/flags/pt.png" />
@@ -83,16 +89,10 @@ experiences:
         Provided technical and after-sale support for Xbox gaming platform.
 
     - role: Service Desk Consultant
-      time: Jan 2017 - Aug 2017
+      time: Jan 2016 - Aug 2016
       company: <a href="https://cgi.com/">CGI</a>, Lisbon <img alt="Portugal" src="assets/images/flags/pt.png" />
       details: |
         Incident, change and request management as part of ITSM team to Finnish companies and government.
-    
-    - role: Logistics Manager
-      time: Nov 2010 - May 2015
-      company: <a href="https://ekoweb.fi/">Ekoweb Ltd</a>, Turku <img alt="Finland" src="assets/images/flags/fi.png" />
-      details: |    
-        Worked part-time aside of studies in different tasks; logistics, distribution and quality control of diagnostic devices.
   
     - role: English teacher
       time: June 2014 - Oct 2014
@@ -115,6 +115,10 @@ projects:
       - title: OpenPlotter
         link: "http://www.sailoog.com/openplotter"
         tagline: "The open-source sailing platform for ARM computers."
+
+      - title: GrapheneOS
+        link: "http://www.grapheneos.org"
+        tagline: "I'm contributing for hardened version of Android Operating System."
 
 skills:
     title: Skills &amp; Proficiency

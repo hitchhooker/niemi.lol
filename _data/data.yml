@@ -29,6 +29,9 @@ sidebar:
       - idiom: Swedish
         level: Professional
 
+      - idiom: Portuguese
+        level: Intermediate
+
     interests:
       - item: Sailing
         link:
@@ -48,9 +51,15 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: | 
-        I'm technical professional with passion for learning and years of experience in solving real world problems. 
-        My main focus is in web development, but lower level programming especially with memory safe Rust is extremely close to my heart.
-        Last few years I have been working as a freelancer remotely, but looking currently more stable position.
+        Being born in family of a C-programmer at Nokia, I learned to write with computer before handwriting and start programming at the age of 8.
+        I have done web development ever since as well as learned programming languages and methods more near to the core. I am use to learning new
+        technologies and languages, but to mention a few that gets me excited: Rust; memory safety with amazing compiler, 
+        TailwindCSS; fully customizable CSS framework with inline classes, SvelteJs with TypeScript; no virtual DOM and compiled into vanilla JS,
+        Laravel; PHP framework that provides easy to use and powerful full-stack tooling for PHP
+        
+        Right now I am based on small fishing village with word class waves at Portuguese coast, where I
+        have set up myself office space optimal for remote work. I am happy here and mainly looking for a possibility to work remotely, but
+        will also listen offers that could improve living standards elsewhere.
       
 
 education:
@@ -63,11 +72,22 @@ education:
       time: 2007 - 2010
 
 experiences:
-    - role: Sales Specialist
+  - role: Full stack developer
+      time: Feb 2020 - Oct 2020
+      company: <a href="https://www.fujitsu.com/global/">Insoft Services</a>, Helsinki <img alt="FI" src="assets/images/flags/fi.png" />
+      details: |
+        Insoft Services is one of the leading IT Training companies. I worked remotely for Insoft Services to 
+        build new learning management system using TailwindCSS, VueJS and Laravel to create
+        an web portal with easily configured multilingual CMS for backend. 
+
+    - role: Sales Specialist and web development
       time: Feb 2019 - Sep 2019
       company: <a href="https://www.fujitsu.com/global/">Site123</a>, Remote <img alt="EU" src="assets/images/flags/eu.png" />
       details: |
-        I worked remotely as a sales specialist for free website builder. Sales were generated through Intercom chat and emails to customers, who had visited the upgrade page. 
+        I worked remotely as a sales specialist for free website builder. 
+        Sales were generated through Intercom chat and emails to customers, who had visited the upgrade page. 
+        I transformed inside the company more and more into programming task to improve pre-made layouts of the website builder and
+        user experienced.
 
     - role: System specialist / Service Desk Expert
       time: Sep 2017 - May 2018

@@ -142,23 +142,23 @@ skills:
   title: Skills &amp; Proficiency
 
   toolset:
-    - name: HTML5 & CSS
-      level: 98%
+    - name: HTML5 & CSS(TailwindCSS, Bulma, Bootstrap)
+      level: 95%
 
     - name: Javascript & jQuery
-      level: 92%
+      level: 90%
 
-    - name: React
-      level: 88%
+    - name: VueJS, React, Angular
+      level: 65%
 
-    - name: Python
-      level: 80%
+    - name: PHP/Laravel
+      level: 60%
 
     - name: Java
-      level: 75%
+      level: 60%
 
     - name: Rust
-      level: 60%
+      level: 40%
 
 footer: >
   Powered by Jekyll | Download CV <a href="https://www.sejda.com/html-to-pdf?save-link=https://niemi.lol&viewportWidth=1040&delay=5" 

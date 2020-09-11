@@ -3,164 +3,163 @@
 #
 
 sidebar:
-    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
-    education: True # set to False if you want education in main section instead of in sidebar
+  about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
+  education: True # set to False if you want education in main section instead of in sidebar
 
-    # Profile information
-    name: Tommi Niemi
-    tagline: Full Stack Developer
-    avatar: tommi_cv_small.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+  # Profile information
+  name: Tommi Niemi
+  tagline: Full Stack Developer
+  avatar: tommi_cv_small.png #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
-    # Sidebar links
-    email: tommi@niemi.lol
-    phone: +358 40 442 32 67
-    skype: tomek.niemi
-    website: niemi.lol #do not add http://
-    linkedin: tomminiemi
-    github: hitchhooker
+  # Sidebar links
+  email: tommi@niemi.lol
+  phone: +358 40 442 32 67
+  skype: tomek.niemi
+  website: niemi.lol #do not add http://
+  linkedin: tomminiemi
+  github: hitchhooker
 
-    languages:
-      - idiom: English
-        level: Native
+  languages:
+    - idiom: English
+      level: Native
 
-      - idiom: Finnish
-        level: Native
+    - idiom: Finnish
+      level: Native
 
-      - idiom: Swedish
-        level: Professional
+    - idiom: Swedish
+      level: Professional
 
-      - idiom: Portuguese
-        level: Intermediate
+    - idiom: Portuguese
+      level: Intermediate
 
-    interests:
-      - item: Sailing
-        link:
+  interests:
+    - item: Sailing
+      link:
 
-      - item: Hitchhiking
-        link:
+    - item: Hitchhiking
+      link:
 
-      - item: Free software
-        link:
-        
-      - item: Infosec
-        link:
-        
-      - item: Machine learning
-        link:
-        
+    - item: Free software
+      link:
+
+    - item: Infosec
+      link:
+
+    - item: Machine learning
+      link:
+
 career-profile:
-    title: Career Profile
-    summary: | 
-        Being born in family of a C-programmer at Nokia, I learned to write with computer before handwriting and start programming at the age of 8.
-        I have done web development ever since as well as learned programming languages and methods more near to the core. I am use to learning new
-        technologies and languages, but to mention a few that gets me excited: Rust; memory safety with amazing compiler, 
-        TailwindCSS; fully customizable CSS framework with inline classes, SvelteJs with TypeScript; no virtual DOM and compiled into vanilla JS,
-        Laravel; PHP framework that provides easy to use and powerful full-stack tooling for PHP
-        
-        Right now I am based on small fishing village with word class waves at Portuguese coast, where I
-        have set up myself office space optimal for remote work. I am happy here and mainly looking for a possibility to work remotely, but
-        will also listen offers that could improve living standards elsewhere.
-      
+  title: Career Profile
+  summary: |
+    Being born in family of a C-programmer at Nokia, I learned to write with computer before handwriting and start programming at the age of 8.
+    I have done web development ever since as well as learned programming languages and methods more near to the core. I am use to learning new
+    technologies and languages, but to mention a few that gets me excited: Rust; memory safety with amazing compiler, 
+    TailwindCSS; fully customizable CSS framework with inline classes, SvelteJs with TypeScript; no virtual DOM and compiled into vanilla JS,
+    Laravel; PHP framework that provides easy to use and powerful full-stack tooling for PHP. 
+
+    Right now I am based on small fishing village with word class waves at Portuguese coast, where I
+    have set up myself office space optimal for remote work. I am happy here and mainly looking for a possibility to work remotely, but
+    will also listen offers that could improve living standards elsewhere.
 
 education:
-    - degree: MSc in Computer Science
-      university: University of Turku
-      time: 2012 - 2017
+  - degree: MSc in Computer Science
+    university: University of Turku
+    time: 2012 - 2017
 
-    - degree: Abitur
-      university: Kupittaa ICT High School
-      time: 2007 - 2010
+  - degree: Abitur
+    university: Kupittaa ICT High School
+    time: 2007 - 2010
 
 experiences:
   - role: Full stack developer
-      time: Feb 2020 - Oct 2020
-      company: <a href="https://www.fujitsu.com/global/">Insoft Services</a>, Helsinki <img alt="FI" src="assets/images/flags/fi.png" />
-      details: |
-        Insoft Services is one of the leading IT Training companies. I worked remotely for Insoft Services to 
-        build new learning management system using TailwindCSS, VueJS and Laravel to create
-        an web portal with easily configured multilingual CMS for backend. 
+    time: Feb 2020 - Oct 2020
+    company: <a href="https://www.fujitsu.com/global/">Insoft Services</a>, Helsinki <img alt="FI" src="assets/images/flags/fi.png" />
+    details: |
+      Insoft Services is one of the leading IT Training companies. I worked remotely for Insoft Services to 
+      build new learning management system using TailwindCSS, VueJS and Laravel to create
+      an web portal with easily configured multilingual CMS for backend.
 
-    - role: Sales Specialist and web development
-      time: Feb 2019 - Sep 2019
-      company: <a href="https://www.fujitsu.com/global/">Site123</a>, Remote <img alt="EU" src="assets/images/flags/eu.png" />
-      details: |
-        I worked remotely as a sales specialist for free website builder. 
-        Sales were generated through Intercom chat and emails to customers, who had visited the upgrade page. 
-        I transformed inside the company more and more into programming task to improve pre-made layouts of the website builder and
-        user experienced.
+  - role: Sales and frontend developer
+    time: Feb 2019 - Sep 2019
+    company: <a href="https://www.fujitsu.com/global/">Site123</a>, Remote <img alt="EU" src="assets/images/flags/eu.png" />
+    details: |
+      I worked remotely as a sales specialist for free website builder. 
+      Sales were generated through Intercom chat and emails to customers, who had visited the upgrade page. 
+      I transformed inside the company more and more into programming task to improve pre-made layouts of the website builder and
+      user experience .
 
-    - role: System specialist / Service Desk Expert
-      time: Sep 2017 - May 2018
-      company: <a href="https://www.fujitsu.com/global/">Fujitsu TS</a>, Lisbon <img alt="Portugal" src="assets/images/flags/pt.png" />
-      details: |
-        Analyzed Point of Sale system related tickets and adviced on-site technicians to fix devices efficiently minimizing amount of hardware replacements.
-        
+  - role: System specialist / Service Desk Expert
+    time: Sep 2017 - May 2018
+    company: <a href="https://www.fujitsu.com/global/">Fujitsu TS</a>, Lisbon <img alt="Portugal" src="assets/images/flags/pt.png" />
+    details: |
+      Analyzed Point of Sale system related tickets and adviced on-site technicians to fix devices efficiently minimizing amount of hardware replacements.
 
-    - role: Technical Support Agent
-      time: Jan 2017 - Aug 2017
-      company: <a href="https://www.arvato.com/en.html">arvato Bertelsmann</a>, Cluj-Napoca <img alt="Romania" src="assets/images/flags/ro.png" />
-      details: |
-        Troubleshooted and solved issues over remote desktop connection and assisted with first time setups of Windows 10 OS and Office 365.
- 
-    - role: Technical Support Agent
-      time: Aug 2016 - Dec 2016
-      company: <a href="https://adecco.pt/">Adecco</a>, Lisbon <img alt="Portugal" src="assets/images/flags/pt.png" />
-      details: |
-        Provided technical and after-sale support for Xbox gaming platform.
+  - role: Technical Support Agent
+    time: Jan 2017 - Aug 2017
+    company: <a href="https://www.arvato.com/en.html">arvato Bertelsmann</a>, Cluj-Napoca <img alt="Romania" src="assets/images/flags/ro.png" />
+    details: |
+      Troubleshooted and solved issues over remote desktop connection and assisted with first time setups of Windows 10 OS and Office 365.
 
-    - role: Service Desk Consultant
-      time: Jan 2016 - Aug 2016
-      company: <a href="https://cgi.com/">CGI</a>, Lisbon <img alt="Portugal" src="assets/images/flags/pt.png" />
-      details: |
-        Incident, change and request management as part of ITSM team to Finnish companies and government.
-  
-    - role: English teacher
-      time: June 2014 - Oct 2014
-      company: Children&#39;s Palace</a>, Guangzhou <img alt="China" src="assets/images/flags/cn.png" />
-      details: |
-        Worked as an English teacher for primary school children.
+  - role: Technical Support Agent
+    time: Aug 2016 - Dec 2016
+    company: <a href="https://adecco.pt/">Adecco</a>, Lisbon <img alt="Portugal" src="assets/images/flags/pt.png" />
+    details: |
+      Provided technical and after-sale support for Xbox gaming platform.
+
+  - role: Service Desk Consultant
+    time: Jan 2016 - Aug 2016
+    company: <a href="https://cgi.com/">CGI</a>, Lisbon <img alt="Portugal" src="assets/images/flags/pt.png" />
+    details: |
+      Incident, change and request management as part of ITSM team to Finnish companies and government.
+
+  - role: English teacher
+    time: June 2014 - Oct 2014
+    company: Children&#39;s Palace</a>, Guangzhou <img alt="China" src="assets/images/flags/cn.png" />
+    details: |
+      Worked as an English teacher for primary school children.
 
 projects:
-    title: Projects
+  title: Projects
 
-    assignments:
-      - title: Trustroots
-        link: "https://www.trustroots.org/"
-        tagline: "An open-source hospitality network for travellers to meet and host each other."
+  assignments:
+    - title: Trustroots
+      link: "https://www.trustroots.org/"
+      tagline: "An open-source hospitality network for travellers to meet and host each other."
 
-      - title: Hitchwiki
-        link: "https://hitchwiki.org"
-        tagline: "A collaborative project to build a free guide for hitchhikers."
+    - title: Hitchwiki
+      link: "https://hitchwiki.org"
+      tagline: "A collaborative project to build a free guide for hitchhikers."
 
-      - title: OpenPlotter
-        link: "http://www.sailoog.com/openplotter"
-        tagline: "The open-source sailing platform for ARM computers."
+    - title: OpenPlotter
+      link: "http://www.sailoog.com/openplotter"
+      tagline: "The open-source sailing platform for ARM computers."
 
-      - title: GrapheneOS
-        link: "http://www.grapheneos.org"
-        tagline: "I'm contributing for hardened version of Android Operating System."
+    - title: GrapheneOS
+      link: "http://www.grapheneos.org"
+      tagline: "I'm contributing for hardened version of Android Operating System."
 
 skills:
-    title: Skills &amp; Proficiency
+  title: Skills &amp; Proficiency
 
-    toolset:
-      - name: HTML5 & CSS
-        level: 98%
+  toolset:
+    - name: HTML5 & CSS
+      level: 98%
 
-      - name: Javascript & jQuery
-        level: 92%
+    - name: Javascript & jQuery
+      level: 92%
 
-      - name: React
-        level: 88%
+    - name: React
+      level: 88%
 
-      - name: Python
-        level: 80%
+    - name: Python
+      level: 80%
 
-      - name: Java
-        level: 75%
+    - name: Java
+      level: 75%
 
-      - name: Rust
-        level: 60%
+    - name: Rust
+      level: 60%
 
 footer: >
-   Powered by Jekyll | Download CV <a href="https://www.sejda.com/html-to-pdf?save-link=https://niemi.lol&viewportWidth=1040&delay=5" target="_blank" alt="tommi_niemi_cv">here.</a  
+  Powered by Jekyll | Download CV <a href="https://www.sejda.com/html-to-pdf?save-link=https://niemi.lol&viewportWidth=1040&delay=5" 
+  target="_blank" alt="Tommi Niemi CV">here.</a>

@@ -73,7 +73,7 @@ education:
 experiences:
   - role: Full stack developer
     time: Feb 2020 - Oct 2020
-    company: <a href="https://www.fujitsu.com/global/">Insoft Services</a>, Helsinki <img alt="FI" src="assets/images/flags/fi.png" />
+    company: <a href="https://www.insoftservices.uk">Insoft Services</a>, Helsinki <img alt="FI" src="assets/images/flags/fi.png" />
     details: |
       Insoft Services is one of the leading IT Training companies. I worked remotely for Insoft Services to 
       build new learning management system using TailwindCSS, VueJS and Laravel to create
@@ -81,7 +81,7 @@ experiences:
 
   - role: Sales and frontend developer
     time: Feb 2019 - Sep 2019
-    company: <a href="https://www.fujitsu.com/global/">Site123</a>, Remote <img alt="EU" src="assets/images/flags/eu.png" />
+    company: <a href="https://www.site123.com">Site123</a>, Remote <img alt="EU" src="assets/images/flags/eu.png" />
     details: |
       I worked remotely as a sales specialist for free website builder. 
       Sales were generated through Intercom chat and emails to customers, who had visited the upgrade page. 

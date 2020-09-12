@@ -2,8 +2,8 @@
 
 # Site Settings
 title: Tommi Niemi CV
-url: 'https://hitchhooker.github.io'
-baseurl: 'hitchhooker.github.io' #change it according to your repository name
+url: 'https://niemi.lol'
+baseurl: 'niemi.lol' #change it according to your repository name
 description: Tommi Niemi CV
 # Style will be applied only after restarting the build or serve. Just choose one of the options.
 theme_skin: turquoise # blue turquoise green berry orange ceramic

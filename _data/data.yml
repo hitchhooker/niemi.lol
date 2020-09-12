@@ -126,6 +126,11 @@ portfolio:
       link: "https://ride.co/"
       tagline: "RIDE is community based electric scooter app from Australia. I recreated their lost website using 
                 laravel blade templating on top of wordpress and TailwindCSS as a styling framework."
+    - title: Insoft Services
+      link: "https://insoft.rotko.net/"
+      tagline: "Insoft Services is leading IT-Training company. They were in need of rebuilding their wordpress LMS
+                into one multilingual LMS top of a Laravel Framework. I built the frontend using TailwindCSS theming, VueJS and 
+                Laravel Blade templating."
 
 projects:
   title: Projects

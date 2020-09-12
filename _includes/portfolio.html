@@ -16,15 +16,15 @@
   </div><!--//intro-->
   {% endif %}
 
-  {% for project in portfolio.assignments %}
+  {% for portfolio in portfolio.assignments %}
     <div class="item">
 
-      <span class="project-title">
-        <a href="{{ project.link }}">{{ project.title }}</a>
+      <span class="portfolio-title">
+        <a href="{{ portfolio.link }}">{{ portfolio.title }}</a>
       </span>
 
-      {% if project.tagline %}
-      - <span class="project-tagline">{{ project.tagline }}</span>
+      {% if portfolio.tagline %}
+      - <span class="portfolio-tagline">{{ portfolio.tagline }}</span>
       {% endif %}
 
     </div><!--//item-->

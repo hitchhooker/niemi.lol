@@ -133,7 +133,7 @@ portfolio:
                 Laravel Blade templating."
 
 projects:
-  title: Projects
+  title: OS Projects
 
   assignments:
     - title: Trustroots

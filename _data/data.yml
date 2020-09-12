@@ -118,6 +118,15 @@ experiences:
     details: |
       Worked as an English teacher for primary school children.
 
+portfolio:
+  title: Portfolio
+
+  assignments:
+    - title: Ride App
+      link: "https://ride.co/"
+      tagline: "RIDE is community based electric scooter app from Australia. I recreated their lost website using 
+                laravel blade templating on top of wordpress and TailwindCSS as a styling framework."
+
 projects:
   title: Projects
 

@@ -71,6 +71,13 @@ education:
     time: 2007 - 2010
 
 experiences:
+  - role: CEO
+    time: Nov 2019 -
+    company: <a href="https://rotko.net">Rotko Networks</a>, Helsinki <img alt="FI" src="assets/images/flags/fi.png"/>
+    details: |
+      Rotko Networks is company delivering Web Integration solutions and Cybersecurity consultation. 
+      
+
   - role: Full stack developer
     time: Feb 2020 - Oct 2020
     company: <a href="https://www.insoftservices.uk">Insoft Services</a>, Helsinki <img alt="FI" src="assets/images/flags/fi.png" />
@@ -111,12 +118,6 @@ experiences:
     company: <a href="https://cgi.com/">CGI</a>, Lisbon <img alt="Portugal" src="assets/images/flags/pt.png" />
     details: |
       Incident, change and request management as part of ITSM team to Finnish companies and government.
-
-  - role: English teacher
-    time: June 2014 - Oct 2014
-    company: Children&#39;s Palace</a>, Guangzhou <img alt="China" src="assets/images/flags/cn.png" />
-    details: |
-      Worked as an English teacher for primary school children.
 
 portfolio:
   title: Portfolio
